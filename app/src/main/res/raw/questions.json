@@ -1,0 +1,53 @@
+{
+  "data":[
+    {
+      "id":"1",
+      "question":"Where is Dublin?",
+      "option_1":"Ireland",
+      "option_2":"Canada",
+      "option_3":"USA",
+      "option_4":"CHINA",
+      "answer":"Ireland"
+    }
+    ,
+    {
+      "id":"2",
+      "question":"Who is vice president of india?",
+      "option_1":"Manmohan Singh",
+      "option_2":"Hamid Ansari",
+      "option_3":"Ramnath Kovind",
+      "option_4":"Venkaiah Naidu",
+      "answer":"Venkaiah Naidu"
+    }
+  ,
+    {
+      "id":"3",
+      "question":"Who won IPL 2019?",
+      "option_1":"Chennai Super Kings",
+      "option_2":"Mumbai Indians",
+      "option_3":"Kings XI Punjab",
+      "option_4":"Kings XI Punjab",
+      "answer":"Mumbai Indians"
+    }
+  ,
+    {
+      "id":"4",
+      "question":"Who is Home minister of India?",
+      "option_1":"Rajnath Singh",
+      "option_2":"Yogi Adityanath",
+      "option_3":"Amit Shah",
+      "option_4":"Sonia Gandhi",
+      "answer":"Amit Shah"
+    }
+  ,
+    {
+      "id":"5",
+      "question":"Article 370 revoked in which part of india?",
+      "option_1":"Jammu and Kashmir",
+      "option_2":"Asam",
+      "option_3":"Uttarakhand",
+      "option_4":"Madhya Pradesh",
+      "answer":"Jammu and Kashmir"
+    }
+  ]
+}

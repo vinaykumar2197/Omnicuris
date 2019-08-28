@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    >
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="vertical"
+            android:layout_margin="15dp"
+            >
+            <TextView
+                android:id="@+id/tv_question"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hey there"
+                />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_answer_user"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hey there"
+                />
+
+                <ImageView
+                    android:id="@+id/iv_status"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    android:src="@drawable/ic_correct"
+                    android:layout_alignParentRight="true"
+                    />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_answer_json"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hey there"
+                />
+
+
+
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
